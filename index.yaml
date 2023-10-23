@@ -3,13 +3,13 @@ entries:
   free5gc:
   - apiVersion: v2
     appVersion: latest
-    created: "2023-10-05T13:32:33.794144959Z"
+    created: "2023-10-23T09:58:32.945463363Z"
     dependencies:
     - condition: deploySmf
       name: free5gc-smf
       repository: ""
     description: A Helm chart to deploy Free5gc
-    digest: 3a6851bc2c374e2ead5f1e7c36c351f07938100adcda48de399e098d442b4aa6
+    digest: 75f15d787c2ed9296e31ea40407773e51bf36088aca7899c2cdd4679d9b5f5da
     icon: https://camo.githubusercontent.com/915dcf8299b3d2bfe2b2693c5401916cb31e31fb690a73e7da327808000efa37/68747470733a2f2f666f72756d2e667265653567632e6f72672f75706c6f6164732f64656661756c742f6f726967696e616c2f31582f333234363935626663363438316264353536633131303138663238333430383663663565633634352e706e67
     maintainers:
     - email: abderaouf.khichane@orange.com
@@ -22,4 +22,4 @@ entries:
     urls:
     - free5gc-1.1.7.tgz
     version: 1.1.7
-generated: "2023-10-05T13:32:33.792082262Z"
+generated: "2023-10-23T09:58:32.943467968Z"
