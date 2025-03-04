@@ -146,8 +146,8 @@ smf:
             type: AN # the type of the node (AN or UPF)
           UPF:  # the name of the node
             type: UPF # the type of the node (AN or UPF)
-            nodeID: 10.212.14.60 # the IP/FQDN of N4 interface on this UPF (PFCP)
-            addr: 10.212.14.60 # the IP/FQDN of N4 interface on this UPF (PFCP)
+            nodeID: 10.212.13.60 # the IP/FQDN of N4 interface on this UPF (PFCP)
+            addr: 10.212.13.60 # the IP/FQDN of N4 interface on this UPF (PFCP)
             sNssaiUpfInfos: # S-NSSAI information list for this UPF
                   - sNssai: # S-NSSAI (Single Network Slice Selection Assistance Information)
                       sst: 1 # Slice/Service Type (uinteger, range: 0~255)
